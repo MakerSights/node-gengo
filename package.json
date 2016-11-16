@@ -5,7 +5,7 @@
   },
   "name": "gengo",
   "description": "Gengo API for node",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "homepage": "https://github.com/localizejs/node-gengo",
   "repository": {
     "type": "git",
@@ -27,7 +27,7 @@
   ],
   "main": "lib/main.js",
   "dependencies": {
-    "request": "2.69.0"
+    "request": "2.78.0"
   },
   "devDependencies": {},
   "license": "MIT",

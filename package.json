@@ -5,7 +5,7 @@
   },
   "name": "gengo",
   "description": "Gengo API for node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/localizejs/node-gengo",
   "repository": {
     "type": "git",

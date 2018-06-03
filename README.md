@@ -96,4 +96,4 @@ TODO
 Author
 ----------
 
-Brandon Paton. Email me if you have any questions: [bp@brandonpaton.com](mailto:bp@brandonpaton.com). Supported by [Localize.js](https://localizejs.com/).
+Supported and maintained by [Localize](https://localizejs.com/).

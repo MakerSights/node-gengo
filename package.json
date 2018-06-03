@@ -1,20 +1,20 @@
 {
   "author": {
     "name": "Brandon Paton",
-    "email": "bp@brandonpaton.com"
+    "email": "brandon@localizejs.com"
   },
   "name": "gengo",
   "description": "Gengo API for node",
   "version": "1.0.2",
-  "homepage": "https://github.com/localizejs/node-gengo",
+  "homepage": "https://github.com/Localize/node-gengo",
   "repository": {
     "type": "git",
-    "url": "git://github.com/localizejs/node-gengo.git"
+    "url": "git://github.com/Localize/node-gengo.git"
   },
   "contributors": [
     {
       "name": "Brandon Paton",
-      "email": "bp@brandonpaton.com"
+      "email": "brandon@localizejs.com"
     }
   ],
   "keywords": [
@@ -35,7 +35,6 @@
     "node": ">=0.6"
   },
   "bugs": {
-    "url": "https://github.com/localizejs/node-gengo/issues"
-  },
-  "readme": " "
+    "url": "https://github.com/Localize/node-gengo/issues"
+  }
 }
